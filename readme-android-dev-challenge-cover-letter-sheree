@@ -1,0 +1,54 @@
+#AndroidDevChallenge
+
+Tell us what your idea is. 
+
+Memory Crack ™ will help families and other people who are dealing with a friend, patient or family member struggling with Dementia and related diseases like Alzheimer's.  An adorable dancing sunflower asks questions prompting story sharing effectively cracking open a memory. The simple interface uses a green button for“Right!”with a text prompt to“Tell Us The Story!” and a red button for “Oops” with a text prompt to “Make a New Memory!”.  I would love to be able to add geeky cool features, in honor of my Mother, who passed away in 2017 from dementia,  including image labeling, avatars and more. Tensor Flow could allow communication without the internet and aid with privacy regulations. ML Kit could use face detection in real time, add video chat and responses to the player's expressions.  ML kit could create fun avatars of the users from actual photos of the users with it’s image labeling APIs, tis and Vision AI it could help recognize entities and objects. This would help dementia patients, in earlier stages by pointing their phones at people who visit and identify who they are for them. My mother always remembered who we were but this is not the case for all families. How cool would it be to play in a game app that says, hey that’s your daughter! The 400 commonly-found concepts in photos could help people with dementia identify objects they have forgotten.
+
+Tell us how you plan on bringing it to life. 
+
+I was able to create a simple first version of Memory Crack™.  I have a history of accomplishing the goals I set before me and credit this to my education in business, web design and the visual arts. Being a visual thinker I am able to see my project in my head.  I have been bringing this project to life, however if I win the Android Dev Challenge it will both more like I envisioned it and also extremely more fabulous at launch.  Since I read about the challenge I have discovered many new tools for my project like ML Kit, Tensor Flow and Vision AI. I will start utilizing these and find a mentor to aid me in that goal. I will also plan to embrace new versions of Memory Crack  ™ as this project progresses.
+
+●(1) Game Salad Version 1 exists, compete with 32 questions, and I have screen shots of the game.  I have not published it yet though I have signed it and can run a demo version.
+
+●(2) List of the ways you could use Google’s help:
+
+A. Help me bring the game to better fruition with Google’s Mentorship and knowledge of coding through the Google Bootcamp and follow up coordination of development. 
+B. Adding a pause button so that the timer stops while they are sharing a memory. Possibly add a cute song or sound to suggest it’s time for the next question.  
+C. Adding more of the dancing sunflower through out the game. Perhaps change it up so that instead of a circle in between a sequence of questions we get to see the dancing sunflower’s head with a number on it instead of the circle used now.
+D. Add a way to customize some of the questions in a more advance pay version of the game.
+E. Add a way to record the stories as they are being shared
+F. Add a way to capture video or photos of the person sharing the stories
+G. Add a way to invite friends and family to share the stories in Drop Box or to other.
+H. Add a way for the memories and stories to be played back later so the people can listen to them again without changing the content.
+I. Adding a way to invite others to play the game with us through the app in some fashion; yet to be created.
+J. Help coordinating upgrading some of the graphics to match up with the code.  Example we don’t really need a designated number of chances left or a timer per-sae. 
+K. Add Ability to create avatar of users
+N. Add ability to recognize objects and images of people that are no longer familiar due to dementia.
+
+●(3)  Timeline: I will use the new to  me tools for creating machine based learning. I will reach out to other coders to find a mentor prior to the Bootcamp in February. I will continue to work on the project with excitement, dedication and anticipation to meet the May 1st launch date!
+
+Tell us about you. 
+
+My name is Sheree Lincoln and I am an entrepreneur artist, web designer, sailor, paddle boarder and a daughter who helped take care 
+of a parent with Dementia. My Mother, Linda Hanson started showing obvious signs of dementia in 2013 and apparently had been struggling
+with brain fog and memory issues for several years before that.  She died in 2017. In life she was an adventurer and a sailor until it 
+became too confusing to travel. My mother loved reading, singing and playing music. Sadly, these were some of the first things to be 
+lost to her. She confessed that she did not really like board games or cards (this explain why she chose Crazy Eights and War to play 
+with us as children). We discovered that she really enjoyed the popular game Trivia Crack. We could also involve other members of the 
+family by playing the game with through the app. Eventually she could not remember very many of the trivia answers however sometimes 
+when we could not think of things to talk about with her, as she progressed through the disease, she started sharing stories from her 
+life. We learned, over time, that we could get her to share the stories by bringing up a story from her life or one that we made up,
+(or was from someone else’s life) and this would prompt her to tell her own story. I began searching for a way to create a game of my
+own and decided back then to call it Memory Crack because it would crack open memories. So simple.  I was so absorbed in caring for my 
+Mom that it was just too complicated to complete the app at the time.  I would like to make this the best app it could with Google’s
+help knowing that it will help so many other share their stories and soothe their souls as they too, deal with dementia. It will help 
+document lives and help people learn more about the person they are playing the game with. I would like to donate a percentage of the 
+money earned with the app to help find a cure for Alzeihmers and other dementia related illnesses. I would also like to launch a 
+campaign or support one that shares how un-diagnosed sleep apnea can cause dementia. My Mother and Father sailed the Caribbean and 
+traveled together for 16 years after my Father retired.  I am 61 and just moved onto a sailboat called SpiritHawk full time. Creating
+and launching this app will create some income with which I can continue my sailing and paddle boarding adventures in her honor while 
+I am helping others share their stories.  I have another project on Patreon with my boyfriend, a Native American from Alaska ad 4th 
+generation Shipwright. Together we have a project to build a traditional Pacific Northwest Canoe called SpiritHawk II and plan to
+paddle 600 miles on the Alaskan Inland Passage and share the story of our adventure and stories of his Tlingit Tribe.  Since this
+section is about me I want to share that I am also a retired firefighter which was a childhood goal; I did not become one until I was 43.
+I  include this to show I can meet my goals. Thank you for your time. I look forward to meeting all of you!
